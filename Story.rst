@@ -6,11 +6,12 @@ Her hører du historien om kartoflen, og hvor dejlig den er.
 Kartoflen er en god grøntsag. Den smager godt og du kan tilberede den på mange måder.
 
 Måder den kan tilberedes på:
+
 1. moses
 
 2. koges
 
-4. steges
+3. steges
 
 4. bages
 
